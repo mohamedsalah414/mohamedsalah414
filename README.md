@@ -63,10 +63,10 @@
 <a href="https://github.com/mohamedsalah414" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/zalah414" target="_blank">
+<a href="https://linkedin.com/in/mohamedsalah414" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://dribbble.com/M0Salah" target="_blank">
+<a href="https://dribbble.com/mohamedsalah414" target="_blank">
 <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.behance.net/mohamedsalah414" target="_blank">
