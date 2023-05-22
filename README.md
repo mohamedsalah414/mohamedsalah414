@@ -1,15 +1,12 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
   
 
-### <div align="center">I'm Mohamed Salah, a full-time flutter developer 👨‍💻 </div>  
+### <div align="center">I'm Mohamed Salah, a full-time Flutter developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Rare Crew](https://www.rarecrew.com)  
+- 🔭 I’m currently Looking for new opportunity
   
 
-- ❓ Ask me about anything related to flutter and related technologies  
+- ❓ Ask me about anything related to Flutter and related technologies  
   
 
 <br/>  
